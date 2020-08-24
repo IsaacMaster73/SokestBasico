@@ -17,7 +17,7 @@ public class ServidorSockets {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		MarcoServidor ventanaServidor = new MarcoServidor();
+		VentanaServidor ventanaServidor = new VentanaServidor();
 		ventanaServidor.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 

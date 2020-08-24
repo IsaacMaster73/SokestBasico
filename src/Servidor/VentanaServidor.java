@@ -6,12 +6,12 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 
-public class MarcoServidor extends JFrame {
+public class VentanaServidor extends JFrame {
 
 	/**
 	 * @construc constructor dela marco
 	 */
-	public MarcoServidor() {
+	public VentanaServidor() {
 		setBounds(1200,300,280,350);
 		JPanel lamina = new JPanel();
 		lamina.setLayout(new BorderLayout());
